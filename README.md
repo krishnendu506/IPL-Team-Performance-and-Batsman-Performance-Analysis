@@ -209,7 +209,7 @@ The dataset's exact source, coverage period, number of records, and field defini
 
 Aspiring Data Analyst | Python | SQL | Power BI | Excel
 
-GitHub: YOUR_GITHUB_PROFILE_URL
+GitHub: 
 
 LinkedIn: YOUR_LINKEDIN_PROFILE_URL
 
