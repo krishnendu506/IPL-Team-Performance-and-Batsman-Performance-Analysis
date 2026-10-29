@@ -47,7 +47,8 @@ IPL-Analytics/
 │
 ├── data/
 │   ├── IPL DATASET.csv
-│   └── IPL_Cleaned.csv
+│---Project Report/
+|   |--- IPL_Team_and_Batsman_Performance_Project_Report.doc  
 │
 ├── notebooks/
 │   └── IPL_Analysis.ipynb
@@ -209,9 +210,9 @@ The dataset's exact source, coverage period, number of records, and field defini
 
 Aspiring Data Analyst | Python | SQL | Power BI | Excel
 
-GitHub: 
+GitHub: github.com/krishnendu506
 
-LinkedIn: YOUR_LINKEDIN_PROFILE_URL
+LinkedIn: https://www.linkedin.com/in/krishnendu506/
 
 ## 📜 14. Disclaimer
 
